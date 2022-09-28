@@ -9,7 +9,7 @@ environment:
 dependencies:
   sembast:
     git:
-      url: https://github.com/i-atros/sembast.git
+      url: https://github.com/i-atros/sembast.dart.git
       path: sembast
       ref: temporary_iatros
   sqflite_common: '>=2.0.0 <4.0.0'
