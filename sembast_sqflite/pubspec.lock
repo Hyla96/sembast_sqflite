@@ -242,8 +242,8 @@ packages:
     dependency: "direct main"
     description:
       path: sembast
-      ref: "upgrade-flutter-3.27"
-      resolved-ref: c454b363bbd3e312173ca9bbaf1e4d6a3f0777e8
+      ref: master
+      resolved-ref: "99854b9d2d4e0ccc86c1f8e6b0c66144703a4b81"
       url: "https://github.com/i-atros/sembast.dart.git"
     source: git
     version: "3.3.0"
